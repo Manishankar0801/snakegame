@@ -60,7 +60,7 @@ body,
 
 #highscore {
   color: #d8ddca;
-  display:  none;
+  
 }
 
 #currscore {
@@ -68,6 +68,7 @@ body,
 }
 
 #logo {
+
     position: absolute;
     width: 200px;
     height: 200px;
@@ -82,4 +83,13 @@ body,
     padding: 30px;
     margin: 0px;
     text-transform: capitalize;
+}
+
+.snake {
+    border: 1px dotted #5a5a5a;
+}
+
+.food {
+    background-color: #dedede;
+    border: #999 solid red;
 }
