@@ -67,6 +67,14 @@ or simply drag and drop the index.html file into your browser.
 - **`generateFood()`**: Randomly places the food on the grid.
 - **`handleKeyPress()`**: Listens for user inputs and changes the snake’s direction.
 
+## Demo
+
+You can see the project in action here: [SnakeGame](https://mysnakegame-mani.netlify.app/)
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/1aa43360-2660-41b4-b7ac-7389be27995b)
+
+
 ## Developed By
 
 **Mani Shankar Janumpalli**
